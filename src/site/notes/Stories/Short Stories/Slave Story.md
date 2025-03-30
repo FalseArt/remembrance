@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stories/short-stories/slave-story/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/stories/short-stories/slave-story/"}
 ---
 
 In a small, dilapidated hut far to the north, there lived a small family of slaves. Captured a few years ago during a great war, they now tended to a meager patch of barley fields: a youngest brother, an oldest brother, and a mother. The youngest hated his family. His brother stayed in bed while his mother sat in a rocking chair all day. She said that the older brother was "just tired" and that she had "hurt her legs." But the youngest knew that to not be true—he had seen her walk just the other day. *Two-faced,* he thought. *How lazy. You're all worthless.*

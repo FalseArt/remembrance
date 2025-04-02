@@ -33,7 +33,7 @@ Uncomfortable aspects that may come up:
 - Body horror
 - Racism
 
-### Community Expectations
+# Community Expectations
 
 - **Conflict.** At some point, people will disagree and issues will arise. When conflict occurs, it is expected that people handle them in a mature and reasonable manner. That entails keeping a level head, and presenting your argument without insulting, attitude, etc. **Your emotions are perfectly valid**, but if they're in the way of vocalizing your thoughts in a healthy way, then take a step back until you are ready. Disagreements and voicing concerns is encouraged in the appropriate channel, please don't ever hesitate to do so there. More information will be found in the rules on this.
 - **Acceptance.** Do not alienate new players or people in general. It's alright to have friends and frequently RP with a group of people you are comfortable with, but do not go out of your way to ignore new players and form a clique. You do not have to be friends with every single person, but be reasonable.

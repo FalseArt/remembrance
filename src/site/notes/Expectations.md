@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/expectations/"}
 ---
 
-There are many types of players when it comes to RP and all playstyles are equally valid. However, not everyone will enjoy every RP. Take the time to understand what to expect on the server when it comes to the setting, RP, rules, etc.
+There are many types of players when it comes to RP and all playstyles are equally valid. However, not everyone will enjoy every server. Take the time to understand what to expect.
 
 # Story Expectations:
 
@@ -40,10 +40,10 @@ Uncomfortable aspects that may come up:
 - Your character is **not an island.** Your fellow characters, as well as the NPCs, can be sources of courage, mystery, compassion, knowledge, or creativity. Engage them. Build relationships with them. Invest your character in their histories, their personalities, and their goals, and perhaps they'll do the same for you. *Or not.*
 - **The story is not a series just the main story events**; it also includes everything that comes between. Make small talk, play a game, or create a contest. Be petty, thoughtful, spontaneous, or social. Treat downtime as an opportunity to create new scenes, rather than an opportunity to wait for the next story event.
 - Every character should be shaped by **unfulfilled needs** or **past wounds**—whether it’s guilt over a mistake, grief for a loss, fear of failure, or longing for a place/person they can’t return to. This isn’t about being ‘edgy’—it’s about having **real stakes** that inform their desires and flaws. Stakes don’t need to be tragic—a baker who failed their family’s legacy can be as compelling as a soldier with unresolved trauma.
-- Your character should not be made through the use of AI or anything similar. They must be created by you.
-- Your character should be separate from your identity. No self-inserts or alternate versions of yourself.
-- Your character cannot be pure evil. These characters can create conflict, be bullies and or be generally unpleasant people. However they should not be cartoonishly evil villains with no morals at all. 
-- Your character does not have magic or any sort of special abilities beyond the scope of an ordinary mortal.
+- Your character should not be made through the use of AI or anything similar. **They must be created by you.**
+- **Your character should be separate from your identity.** No self-inserts or alternate versions of yourself.
+- Your character cannot be pure evil. These characters can create conflict, be bullies and or be generally unpleasant people. However they should **not be cartoonishly evil villains with no morals at all.** 
+- Your character does **not have magic or any sort of special abilities beyond the scope of an ordinary mortal.**
 - Keep in mind that a well-crafted ordinary person in extraordinary circumstances is often more interesting than an extraordinary person in ordinary circumstances.
 # Community Expectations
 

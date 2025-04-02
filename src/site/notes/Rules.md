@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/rules/"}
 ---
 
+# Rules
+
 These rules are expected to be known and understood by each player that joins.
 
-# Minecraft Rules:
+## Minecraft Rules:
 
 1. No griefing. Do not modify or destroy others' builds without explicit permission. This includes terraforming near other's land.
 2. No stealing. Do not take items from chests, farms, or builds without anyone's consent.

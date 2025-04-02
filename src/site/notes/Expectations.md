@@ -13,7 +13,7 @@ There are many types of players when it comes to RP and all playstyles are equal
   
 ## Accommodations
 
-Once more, the setting is fairly grim and dark. Corruption awaits in every corner, and the world is not a pleasant one to be in. The setting also features more sensitive and mature themes that not everyone may be comfortable with. If you are not comfortable with the various themes then it is recommended to 
+The setting is fairly grim and dark. Corruption awaits in every corner, and the world is not a pleasant one to be in. The setting also features more sensitive and mature themes that not everyone may be comfortable with. If you are not comfortable with the various themes then it is not recommended to join the server.
 
 Uncomfortable aspects that may come up:
 

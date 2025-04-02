@@ -2,9 +2,11 @@
 {"dg-publish":true,"permalink":"/expectations/"}
 ---
 
+# Expectations
+
 There are many types of players when it comes to RP and all playstyles are equally valid. However, not everyone will enjoy every server. Take the time to understand what to expect.
 
-# Story Expectations:
+## Story Expectations:
 
 - **Tone.** The typical standard heroic fantasy will be reconstructed. Your character will not start off as a hero, but may eventually become one in the future. The story takes place in a dark-fantasy setting where sci-fi elements lurk beneath the surface.
 - **Roleplay.** As this is a roleplay server, it is expected that you are here to roleplay. This is not a server for those who just want to play Survival and build/mine.
@@ -33,7 +35,7 @@ Uncomfortable aspects that may come up:
 - Body horror
 - Racism
 
-# Character Expectations:
+## Character Expectations:
 
 - Your character can join for the exploration, the combat, or the treasure, but their importance should be conveyed through your character’s **beliefs, instincts, goals, strengths, and flaws.**
 - Your character's capabilities are **not obtained in a vacuum.** Think carefully about how you gained skills and abilities. There's a story behind them - try to figure out what it is.
@@ -46,7 +48,7 @@ Uncomfortable aspects that may come up:
 - Your character cannot be pure evil. These characters can create conflict, be bullies and or be generally unpleasant people. However they should **not be cartoonishly evil villains with no morals at all.** 
 - Your character does **not have magic or any sort of special abilities beyond the scope of an ordinary mortal.**
 - Keep in mind that a well-crafted ordinary person in extraordinary circumstances is often more interesting than an extraordinary person in ordinary circumstances.
-# Community Expectations
+## Community Expectations
 
 - **Conflict.** At some point, people will disagree and issues will arise. When conflict occurs, it is expected that people handle them in a mature and reasonable manner. That entails keeping a level head, and presenting your argument without insulting, attitude, etc. **Your emotions are perfectly valid**, but if they're in the way of vocalizing your thoughts in a healthy way, then take a step back until you are ready. Disagreements and voicing concerns is encouraged in the appropriate channel. On the other hand, we do not encourage an echo-chamber/toxic positive space.
 - **Acceptance.** Do not alienate new players or people in general. It's alright to have friends and frequently RP with a group of people you are comfortable with, but do not go out of your way to ignore new players and form a clique. You do not have to be friends with every single person, but be reasonable.

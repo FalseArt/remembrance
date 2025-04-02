@@ -42,12 +42,13 @@ Uncomfortable aspects that may come up:
 - Every character should be shaped by **unfulfilled needs** or **past wounds**—whether it’s guilt over a mistake, grief for a loss, fear of failure, or longing for a place/person they can’t return to. This isn’t about being ‘edgy’—it’s about having **real stakes** that inform their desires and flaws. Stakes don’t need to be tragic—a baker who failed their family’s legacy can be as compelling as a soldier with unresolved trauma.
 - Your character should not be made through the use of AI or anything similar. **They must be created by you.**
 - **Your character should be separate from your identity.** No self-inserts or alternate versions of yourself.
+- Your character cannot be a minor, they must be an adult.
 - Your character cannot be pure evil. These characters can create conflict, be bullies and or be generally unpleasant people. However they should **not be cartoonishly evil villains with no morals at all.** 
 - Your character does **not have magic or any sort of special abilities beyond the scope of an ordinary mortal.**
 - Keep in mind that a well-crafted ordinary person in extraordinary circumstances is often more interesting than an extraordinary person in ordinary circumstances.
 # Community Expectations
 
-- **Conflict.** At some point, people will disagree and issues will arise. When conflict occurs, it is expected that people handle them in a mature and reasonable manner. That entails keeping a level head, and presenting your argument without insulting, attitude, etc. **Your emotions are perfectly valid**, but if they're in the way of vocalizing your thoughts in a healthy way, then take a step back until you are ready. Disagreements and voicing concerns is encouraged in the appropriate channel, please don't ever hesitate to do so there. More information will be found in the rules on this.
+- **Conflict.** At some point, people will disagree and issues will arise. When conflict occurs, it is expected that people handle them in a mature and reasonable manner. That entails keeping a level head, and presenting your argument without insulting, attitude, etc. **Your emotions are perfectly valid**, but if they're in the way of vocalizing your thoughts in a healthy way, then take a step back until you are ready. Disagreements and voicing concerns is encouraged in the appropriate channel. On the other hand, we do not encourage an echo-chamber/toxic positive space.
 - **Acceptance.** Do not alienate new players or people in general. It's alright to have friends and frequently RP with a group of people you are comfortable with, but do not go out of your way to ignore new players and form a clique. You do not have to be friends with every single person, but be reasonable.
 - **Treatment.** It is expected that you treat everyone with respect. Joking around with people you know is fine, but do not treat others with disrespect. Treat other people how you want to be treated.
 
